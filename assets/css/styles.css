@@ -1,0 +1,10 @@
+/*ESTILOS GLOBALES*/
+body {
+    background-color: black !important;
+}
+
+/*ESTILOS DEL PIE DE PAGINA*/
+footer  a:link, a:visited, a:active {
+    text-decoration: none;
+    color: white;
+}
