@@ -1,4 +1,8 @@
 /*ESTILOS GLOBALES*/
+html {
+    scroll-behavior: auto !important;/*deshabilita el scroll de bootstrap cuando se clickea una opcion del menu*/    
+}
+
 body {
     background-color: black !important;
 }
